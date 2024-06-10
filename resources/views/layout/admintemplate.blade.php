@@ -48,7 +48,7 @@
 
             <!-- LOGO -->
             <div class="topbar-left">
-                <a href="/AdminPages/home" class="logo">
+                <a href="/sipahe/AdminPages/home" class="logo">
                     <span>
                         <img src="/assets/images/petshop.png" alt="" height="50">
                     </span>
@@ -66,7 +66,7 @@
                     </li>
                     <li class="float-right">
 
-                        <a href="/login/logout" type="button"
+                        <a href="/sipahe/login/logout" type="button"
                             class="btn button-menu btn-custom btn-rounded w-md waves-effect waves-light btn-lg">Logout</a>
 
                     </li>
@@ -88,14 +88,17 @@
                     <ul class="metismenu" id="side-menu">
                         <li class="menu-title">SIPAGI</li>
 
-                        <li><a href="/admin/home"><i class="mdi mdi-view-dashboard"></i> <span>Dashboard</span>
+                        <li><a href="/sipahe/admin/home"><i class="mdi mdi-view-dashboard"></i>
+                                <span>Dashboard</span>
                             </a></li>
-                        <li><a href="/admin/penyakit"><i class="mdi mdi-tooth"></i> <span>Penyakit</span> </a>
+                        <li><a href="/sipahe/admin/penyakit"><i class="mdi mdi-tooth"></i> <span>Penyakit</span>
+                            </a>
                         </li>
-                        <li><a href="/admin/gejala"><i class="mdi mdi-pulse"></i> <span>Gejala</span> </a></li>
-                        <li><a href="/admin/rulebase"><i class="mdi mdi-source-branch"></i> <span>Rule
+                        <li><a href="/sipahe/admin/gejala"><i class="mdi mdi-pulse"></i> <span>Gejala</span> </a>
+                        </li>
+                        <li><a href="/sipahe/admin/rulebase"><i class="mdi mdi-source-branch"></i> <span>Rule
                                     Base</span> </a></li>
-                        <li><a href="/admin/hasil"><i class=" mdi mdi-file-document-box"></i> <span>Hasil
+                        <li><a href="/sipahe/admin/hasil"><i class=" mdi mdi-file-document-box"></i> <span>Hasil
                                     Diagnosis</span> </a></li>
 
                     </ul>

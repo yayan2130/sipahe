@@ -59,7 +59,8 @@
 
                                         <td>
                                             {{-- action="{{ route('items.destroy', $item->id) }}" --}}
-                                            <form method="POST" action="/admin/penyakit/delete/<?= $p['id_penyakit'] ?>"
+                                            <form method="POST"
+                                                action="/sipahe/admin/penyakit/delete/<?= $p['id_penyakit'] ?>"
                                                 onclick="return confirm('Apakah Anda yakin?');">
                                                 @csrf
                                                 <button type="submit" class="btn btn-danger">Hapus</button>

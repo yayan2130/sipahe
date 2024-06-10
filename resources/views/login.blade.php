@@ -17,7 +17,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="card-box">
-                            <form class="form-horizontal" method="POST" action="/login">
+                            <form class="form-horizontal" method="POST" action="/sipahe/login">
                                 @csrf
                                 @if (session()->has('loginError'))
                                     <div class="card-box" style="color: red">

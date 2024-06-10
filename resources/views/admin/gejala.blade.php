@@ -58,7 +58,7 @@
                                                 class="btn btn-warning">Ubah</a></td>
 
                                         <td>
-                                            <form method="post" action="/admin/gejala/delete/<?= $g['id_gejala'] ?>"
+                                            <form method="post" action="/sipahe/admin/gejala/delete/<?= $g['id_gejala'] ?>"
                                                 onclick="return confirm('Apakah Anda yakin?');">
                                                 @csrf
                                                 <button type="submit" class="btn btn-danger">Hapus</button>

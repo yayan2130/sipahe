@@ -17,7 +17,8 @@
                                             pada hewan peliharaan anda</h6>
                                         <div class="card-body">
 
-                                            <form action="/konsul/nextPertanyaan/<?= $kd_pasien ?>/<?= $kode_gejala ?>"
+                                            <form
+                                                action="/sipahe/konsul/nextPertanyaan/<?= $kd_pasien ?>/<?= $kode_gejala ?>"
                                                 method="POST">
                                                 @csrf
                                                 <input type="hidden" name="last_suspect" value="<?= $last_suspect ?>">

@@ -42,7 +42,7 @@ class AdminRulebase extends Controller
                 endforeach;
             endforeach;
             $row[] =        "<td>";
-            $row[] =            "<a class='btn btn-primary btn-sm' href='/admin/rulebase/edit/". $row_penyakit['id_penyakit']. "'>";
+            $row[] =            "<a class='btn btn-primary btn-sm' href='/sipahe/admin/rulebase/edit/". $row_penyakit['id_penyakit']. "'>";
             $row[] =                "<i class='fa fa-wrench'></i>";
             $row[] =            "</a>";
             $row[] =        "</td>";

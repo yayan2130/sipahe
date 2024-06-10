@@ -17,7 +17,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="card-box">
-                            <form action="/konsul/action" method="post">
+                            <form action="/sipahe/konsul/action" method="post">
                                 @csrf
                                 <div class="form-group">
                                     <label for="nama">Nama Kucing<span class="text-danger">*</span></label>

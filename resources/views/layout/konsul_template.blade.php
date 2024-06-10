@@ -48,7 +48,7 @@
 
             <!-- LOGO -->
             <div class="topbar-left">
-                <a href="/AdminPages/home" class="logo">
+                <a href="/sipahe/AdminPages/home" class="logo">
                     <span>
                         <img src="/assets/images/petshop.png" alt="" height="50">
                     </span>

@@ -46,7 +46,7 @@
 
             <!-- LOGO -->
             <div class="topbar-left">
-                <a href="/home" class="logo">
+                <a href="/sipahe/home" class="logo">
                     <span>
                         <img src="/assets/images/petshop.png" alt="" height="50">
                     </span>
@@ -66,7 +66,7 @@
                     <li class="float-right">
 
                         <!-- Full width modal -->
-                        <a class="btn btn-custom btn-rounded" href="/login">Login</a>
+                        <a class="btn btn-custom btn-rounded" href="/sipahe/login">Login</a>
 
                     </li>
                 </ul>
@@ -89,10 +89,10 @@
                     <ul class="metismenu" id="side-menu">
                         <li class="menu-title">SIPAGI</li>
 
-                        <li><a href="/home"><i class="mdi mdi-home"></i> <span>Home</span> </a></li>
-                        <li><a href="/konsul"><i class=" mdi mdi-tooth"></i> <span>Konsultasi</span> </a></li>
+                        <li><a href="/sipahe/home"><i class="mdi mdi-home"></i> <span>Home</span> </a></li>
+                        <li><a href="/sipahe/konsul"><i class=" mdi mdi-tooth"></i> <span>Konsultasi</span> </a></li>
 
-                        <li><a href="/about"><i class="mdi mdi-alert-circle-outline"></i> <span>Tentang</span>
+                        <li><a href="/sipahe/about"><i class="mdi mdi-alert-circle-outline"></i> <span>Tentang</span>
                             </a></li>
 
                     </ul>

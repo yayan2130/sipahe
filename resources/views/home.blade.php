@@ -62,7 +62,7 @@
                                         <h4 class="font-18">ISI BIODATA</h4>
 
                                         <p class="text-muted">Isi biodata secara lengkap dan benar pada menu <a
-                                                href="/konsul"> Diagnosa </a>. </p>
+                                                href="/sipahe/konsul"> Diagnosa </a>. </p>
                                     </div>
                                 </div>
 

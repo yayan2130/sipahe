@@ -178,7 +178,7 @@
                                                 </table>
                                                 <div class="col-md-12 text-center">
                                                     <div class="hidden-print ">
-                                                        <a class="btn btn-primary mt-5 w-50" href="/home">Kembali ke
+                                                        <a class="btn btn-primary mt-5 w-50" href="/sipahe">Kembali ke
                                                             Home</a>
                                                     </div>
 

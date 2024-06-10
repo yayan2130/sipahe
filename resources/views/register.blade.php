@@ -17,7 +17,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="card-box">
-                            <form class="form-horizontal" method="POST" action="/register">
+                            <form class="form-horizontal" method="POST" action="/sipahe/register">
                                 @csrf
 
                                 <div class="form-group m-b-25">
